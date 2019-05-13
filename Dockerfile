@@ -5,7 +5,7 @@ LABEL "homepage"="https://github.com/Nitrino/actions-elixir"
 LABEL "maintainer"="Petr Stepchenko <nitrinodev@gmail.com>"
 
 LABEL "com.github.actions.name"="Elixir actions (Credo, Sobelow and formatting)"
-LABEL "com.github.actions.description"="Actions for running Elixir mix commands for check code style, formatting and security static analysis"
+LABEL "com.github.actions.description"="Actions for running Elixir mix commands for check code style, formatting and security analysis"
 LABEL "com.github.actions.icon"="droplet"
 LABEL "com.github.actions.color"="purple"
 
