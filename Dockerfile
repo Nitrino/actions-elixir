@@ -1,7 +1,7 @@
 FROM elixir:latest
 
-LABEL "repository"="https://github.com/Nitrino/actions"
-LABEL "homepage"="https://github.com/Nitrino/actions"
+LABEL "repository"="https://github.com/Nitrino/actions-elixir"
+LABEL "homepage"="https://github.com/Nitrino/actions-elixir"
 LABEL "maintainer"="Petr Stepchenko <nitrinodev@gmail.com>"
 
 LABEL "com.github.actions.name"="Elixir actions (Credo, Sobelow and formatting)"
